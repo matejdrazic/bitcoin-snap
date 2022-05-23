@@ -1,0 +1,20 @@
+{
+  "version": "1.0.0",
+  "description": "The bitcoin-snap Snap.",
+  "proposedName": "bitcoin-snap",
+  "source": {
+    "shasum": "YP+aEu0LmespI0WIcrQr4kZ+l0/WL0D0fD+4sDdPZYU=",
+    "location": {
+      "npm": {
+        "filePath": "dist/bundle.js",
+        "packageName": "bitcoin-snap",
+        "registry": "https://registry.npmjs.org"
+      }
+    }
+  },
+  "initialPermissions": {
+    "snap_confirm": {},
+    "snap_getBip44Entropy_0": {}
+  },
+  "manifestVersion": "0.1"
+}
